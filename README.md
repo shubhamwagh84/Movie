@@ -1,2 +1,2 @@
 # Movie
-Movie Portal
+Movie Portal in python-Django Framework
